@@ -38,23 +38,23 @@
 
 ## 📸 주요 화면
 ### 로그인/회원가입 화면
-![게임 로그인 및 회원가입 화면](https://github.com/user-attachments/assets/1678012e-00a5-4774-8dc6-52ca751d275c)
+![Login Page](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Login_Page.png)
 
 ### 메인 로비
-![게임 메인(로비) 화면](https://github.com/user-attachments/assets/141ceeeb-14fb-4471-adeb-d983e14fc07d)
+![Main Lobby](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Main_Lobby.png)
 
 ### 상점 화면
-![게임 상점 화면](https://github.com/user-attachments/assets/e0e68fd3-c482-4db7-a7ba-4023428107f9)
+![Shop](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Shop.png)
 
 ### 스테이지별 주요 화면
-![Stage1 화면](https://github.com/user-attachments/assets/25cab65e-b0d4-4140-b761-1e760a6b2281)
-![Stage3 화면](https://github.com/user-attachments/assets/1751354d-74fc-46e9-9895-f487451fc303)
-![Stage2 화면](https://github.com/user-attachments/assets/4035e1dd-69a7-4c3c-9fd1-bfab6d63fa14)
+![Stage 1](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Stage1.png)
+![Stage 2](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Stage2.png)
+![Stage 3](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Stage3.png)
 
 ### 보스 패턴.
-![체력 70 ](https://github.com/user-attachments/assets/c93643f6-2b46-4789-874e-0589a5b5b3ae)
-![체력 50 ](https://github.com/user-attachments/assets/c7320055-94a1-4629-beb8-56521cef6846)
-![0줄](https://github.com/user-attachments/assets/2867fb1e-dd01-48f8-94ad-b42edc0ef15f)
+![Boss 70% Gimmick](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Boss_70%26_Gimmick.png)
+![Boss 30% Gimmick](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Boss_30%25_Gimmick.png)
+![Boss Last Gimmick](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Boss_Last_Gimmick.png)
 
 
 ## 🏆 주요 성과
