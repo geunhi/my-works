@@ -2,7 +2,6 @@
 
 **Eclipse-The-Last-Survivors**는 뱀서라이크 장르에 다크 판타지와 픽셀 그래픽풍으로 RPG 경험을 접목한 게임으로, 짧은 시간 내에 깊이 있는 경험을 제공합니다.
 
----
 
 ## 🕰️ 개발 기간
 - **2023.09.01 ~ 현재**
@@ -14,20 +13,16 @@
   - 이형석 (UI, 사운드, ML 강화학습)
   - 장현우 (게임 기획)
 
----
 
 ## ⚙️ 개발 환경
-<img src="https://img.shields.io/badge/Unity Editor v2023.1.15f-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch V1.10.2-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Unity Editor v2023.1.15f-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/ML Agent V0.28.0-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Unity Package MLAgents: V2.0.1-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Python V3.7.9-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda3 V5.1.0-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow V2.13.0-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch V1.10.2-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 
----
 
 ## 🔧 주요 기능
 - **직업별 다양한 스킬과 시스템**: 각 직업마다 새로운 스킬과 핵심 시스템 경험 가능.
 - **스테이지별 컨셉**: 스테이지별 몬스터와 보스 패턴 변화.
 - **픽셀 그래픽**: 현대적 이펙트와 레트로 감성의 조화.
 
----
 
 ## 🌟 프로젝트 개요
 
@@ -40,7 +35,6 @@
 - 캐릭터: 마법사, 전사, 도적.
 - 다크 중세 판타지 배경, 2D 픽셀 아트 스타일.
 
----
 
 ## 📸 주요 화면
 ### 로그인/회원가입 화면
@@ -62,7 +56,6 @@
 ![체력 50 ](https://github.com/user-attachments/assets/c7320055-94a1-4629-beb8-56521cef6846)
 ![0줄](https://github.com/user-attachments/assets/2867fb1e-dd01-48f8-94ad-b42edc0ef15f)
 
----
 
 ## 🏆 주요 성과
 - 2023년 캡스톤 디자인 성과발표회 **금상**.
