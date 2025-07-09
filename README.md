@@ -37,9 +37,6 @@
 
 
 ## 📸 주요 화면
-### 로그인/회원가입 화면
-![Login Page](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Login_Page.png)
-
 ### 메인 로비
 ![Main Lobby](https://raw.githubusercontent.com/geunhi/my-works/main/Images/Main_Lobby.png)
 
